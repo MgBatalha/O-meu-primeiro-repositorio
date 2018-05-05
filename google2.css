@@ -1,0 +1,50 @@
+#top{
+  text-align: right;
+  width:1300px;
+  height:200px;
+}
+#Entrar{
+  width:64px;
+  height:30px;
+  color:
+}
+
+#image{
+  align-items: center;
+  margin-left:40%;
+}
+
+#search{
+  margin-top:10px;
+  width:388px;
+  height:44px;
+  margin-left:36%;
+}
+
+#button1{
+  margin-left:40%;
+  width:139px;
+  height:36px;
+}
+
+#button2{
+  width:139px;
+  height:36px;
+}
+
+#bottom{
+  width:978px;
+  height:40px;
+  background-color: red;
+  bottom:50px;
+  position: absolute;
+  text-align:left;
+}
+
+#ground{
+  width:1300px;
+  height:50px;
+  background-color: grey;
+  bottom:0px;
+  position:absolute;
+}
